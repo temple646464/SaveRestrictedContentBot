@@ -11,15 +11,15 @@
     "website": "",
     "success_url": "https://t.me/DroneBots",
     "env": {
-        "API_HASH": {
+        "f53ec7c41ce34e6d585674ed9ce6167c": {
             "description": "Your API HASH from my.telegram.org",
             "value": ""
         },
-        "API_ID": {
+        "28748671": {
             "description": "Your API ID from my.telegram.org",
             "value": ""
         },
-        "BOT_TOKEN": {
+        "7896165148:AAFKmmxHT01cbgqPcuHpbigHnGETVO4vSk4": {
             "description": "Bot token, get it from @BotFather.",
             "value": ""
         },
